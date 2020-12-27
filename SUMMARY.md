@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](introduction.md)
-=======
 ## Introduction
 
 * [Introduction](README.md)
@@ -10,3 +8,8 @@
 
 * [Content](personal-content.md)
 * [Review of 2020](review-2020.md)
+
+
+## Writeups
+
+* [content] (writeup-content.md)
