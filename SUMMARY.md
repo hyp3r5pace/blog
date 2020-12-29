@@ -6,10 +6,10 @@
 
 ## Personal
 
-* [Content](personal-content.md)
+* [Table of content](personal-content.md)
 * [Review of 2020](review-2020.md)
 
 
 ## Writeups
 
-* [Content](writeup-content.md)
+* [Tabe of content](writeup-content.md)
