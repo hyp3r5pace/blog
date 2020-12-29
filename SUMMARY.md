@@ -12,4 +12,4 @@
 
 ## Writeups
 
-* [content] (writeup-content.md)
+* [Content](writeup-content.md)
