@@ -13,3 +13,7 @@
 ## Writeups
 
 * [Tabe of content](writeup-content.md)
+
+## Resources
+
+* [Resources](resources.md)
